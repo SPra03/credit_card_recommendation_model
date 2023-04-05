@@ -1,10 +1,8 @@
-# Hackathon-Analytics-Vidya-May-2021
-May-2021
-
 # Read Me
 
 ## Problem Statement
 Identify the potential credit-card customer from the data, so as to increase the hit ratio when credit card is recommended. 
+Hackathon-Analytics-Vidya-May-2021, May-2021
 
 ![My Image](image.png)
 
